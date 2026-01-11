@@ -6769,5 +6769,41 @@
     "logoutConfirmationCancel": "Отмена",
     "@logoutConfirmationCancel": {},
     "logoutConfirmationLogout": "Выйти",
-    "@logoutConfirmationLogout": {}
+    "@logoutConfirmationLogout": {},
+    "transactionNoteHint": "",
+    "@transactionNoteHint": {
+        "description": "Hint text for note input field"
+    },
+    "receiveNotePlaceholder": "",
+    "@receiveNotePlaceholder": {
+        "description": "Placeholder text for note input field"
+    },
+    "recipientsSearchHint": "",
+    "@recipientsSearchHint": {
+        "description": "Hint text for recipients search field"
+    },
+    "receiveNote": "",
+    "@receiveNote": {
+        "description": "Label for adding a note to a receive transaction"
+    },
+    "autoswapInfoSettingsButton": "",
+    "@autoswapInfoSettingsButton": {
+        "description": "Secondary button to navigate to autoswap settings"
+    },
+    "autoswapInfoRemindLater": "",
+    "@autoswapInfoRemindLater": {
+        "description": "Tertiary action to close sheet without dismissing"
+    },
+    "autoswapInfoTitle": "",
+    "@autoswapInfoTitle": {
+        "description": "Title for autoswap information bottom sheet"
+    },
+    "receiveNoteLabel": "",
+    "@receiveNoteLabel": {
+        "description": "Label for the note field in receive"
+    },
+    "autoswapInfoDismissButton": "",
+    "@autoswapInfoDismissButton": {
+        "description": "Primary button to dismiss autoswap info permanently"
+    }
 }
