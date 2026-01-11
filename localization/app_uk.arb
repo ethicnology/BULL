@@ -6793,5 +6793,9 @@
     "autoswapInfoDismissButton": "",
     "@autoswapInfoDismissButton": {
         "description": "Primary button to dismiss autoswap info permanently"
+    },
+    "recipientsSearchHint": "",
+    "@recipientsSearchHint": {
+        "description": "Hint text for recipients search field"
     }
 }
