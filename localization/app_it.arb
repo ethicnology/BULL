@@ -6775,5 +6775,29 @@
     "logoutConfirmationCancel": "Annulla",
     "@logoutConfirmationCancel": {},
     "logoutConfirmationLogout": "Disconnetti",
-    "@logoutConfirmationLogout": {}
+    "@logoutConfirmationLogout": {},
+    "recipientsSearchHint": "",
+    "@recipientsSearchHint": {
+        "description": "Hint text for recipients search field"
+    },
+    "autoswapInfoSettingsButton": "",
+    "@autoswapInfoSettingsButton": {
+        "description": "Secondary button to navigate to autoswap settings"
+    },
+    "importQrDeviceKeystoneStep10": "",
+    "@importQrDeviceKeystoneStep10": {
+        "description": "Keystone instruction step 10"
+    },
+    "autoswapInfoRemindLater": "",
+    "@autoswapInfoRemindLater": {
+        "description": "Tertiary action to close sheet without dismissing"
+    },
+    "autoswapInfoTitle": "",
+    "@autoswapInfoTitle": {
+        "description": "Title for autoswap information bottom sheet"
+    },
+    "autoswapInfoDismissButton": "",
+    "@autoswapInfoDismissButton": {
+        "description": "Primary button to dismiss autoswap info permanently"
+    }
 }
