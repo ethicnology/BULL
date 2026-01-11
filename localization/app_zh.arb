@@ -6775,5 +6775,29 @@
     "logoutConfirmationCancel": "取消",
     "@logoutConfirmationCancel": {},
     "logoutConfirmationLogout": "退出",
-    "@logoutConfirmationLogout": {}
+    "@logoutConfirmationLogout": {},
+    "exchangeLandingLoginToUseSupport": "",
+    "@exchangeLandingLoginToUseSupport": {
+        "description": "Message prompting user to login to access support chat"
+    },
+    "recipientsSearchHint": "",
+    "@recipientsSearchHint": {
+        "description": "Hint text for recipients search field"
+    },
+    "autoswapInfoSettingsButton": "",
+    "@autoswapInfoSettingsButton": {
+        "description": "Secondary button to navigate to autoswap settings"
+    },
+    "autoswapInfoRemindLater": "",
+    "@autoswapInfoRemindLater": {
+        "description": "Tertiary action to close sheet without dismissing"
+    },
+    "autoswapInfoTitle": "",
+    "@autoswapInfoTitle": {
+        "description": "Title for autoswap information bottom sheet"
+    },
+    "autoswapInfoDismissButton": "",
+    "@autoswapInfoDismissButton": {
+        "description": "Primary button to dismiss autoswap info permanently"
+    }
 }
