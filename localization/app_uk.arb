@@ -4150,5 +4150,9 @@
     "autoswapInfoDismissButton": "Не покажуть",
     "@autoswapInfoDismissButton": {
         "description": "Primary button to dismiss autoswap info permanently"
+    },
+    "recipientsSearchHint": "Пошук одержувачів за ім’ям або міткою",
+    "@recipientsSearchHint": {
+        "description": "Hint text for recipients search field"
     }
 }
